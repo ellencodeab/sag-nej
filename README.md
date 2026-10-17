@@ -82,3 +82,11 @@ Jag har använt ChatGPT som stöd för att förstå uppgiftsinstruktionerna, få
 ## Skärmbild
 
 ![Säg nej! – webbapplikation](sag-nej-screenshot.png)
+
+### Mobilvy – 320 px
+
+![Mobilvy 320 px](sag-nej-mobile-320.png)
+
+### Mobilvy – 390 px
+
+![Mobilvy 390 px](sag-nej-mobile-390.png)
