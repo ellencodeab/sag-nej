@@ -77,4 +77,4 @@ En utmaning var att konfigurera publiceringen på GitHub Pages. Genom att felsö
 
 ## AI-stöd
 
-Jag har använt ChatGPT som stöd för att förstå instruktion
+Jag har använt ChatGPT som stöd för att förstå uppgiftsinstruktionerna, få förklaringar av HTML, CSS, JavaScript, Vite och GitHub samt för att felsöka problem under utvecklingen. Jag har själv genomfört och testat projektet.
